@@ -6,7 +6,7 @@ feature_text: |
  <font color="white" size="6pt">UC Berkeley Psychology: News and Views</font>
 ---
 
-### Welcome to the Incoming Graduate Students! 
+<h3>UC Berkeley Psychology: News and Views</h3>
 
 {% include figure.html image="/images/Blog_News_IncomingClass.jpg" caption="Incoming Class of Psychology Graduate Students 2019" %}
 
