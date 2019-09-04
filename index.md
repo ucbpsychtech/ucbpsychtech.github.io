@@ -3,7 +3,7 @@
 layout: page
 feature_image: "/images/Blog_News_Cover.jpg"
 feature_text: |
- <font color="white" size="6pt">UC Berkeley Psychology: News and Views</font>
+ <div class="main-page-title"><font color="white" size="6pt">UC Berkeley Psychology: News and Views</font></div>
 ---
 
 <h3>Welcome to the Incoming Graduate Students!</h3>
