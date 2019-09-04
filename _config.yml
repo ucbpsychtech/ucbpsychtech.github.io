@@ -42,8 +42,8 @@ navigation_header:
   url: /about/
 - title: Spotlights
   url: /spotlights/
-- title: Outreach
-  url: /outreach/
+# - title: Outreach
+#   url: /outreach/
 - title: Contact
   url: /contact/
 
@@ -55,10 +55,10 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Shining a Light on Graduate Student Research
     output: true
     description: "Each month we 'spotlight' the work of graduate students across all areas of psychology: 
     cognitive and behavioural neuroscience, social-personality, cognition, and development."
     feature_text: |
-      Shining a Light on Graduate Student Research
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      <font color="white" size="8pt">Graduate Student Spotlights</font>
+    feature_image: "/images/Blog_Spotlights_Cover.jpg"

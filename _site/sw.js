@@ -1,8 +1,8 @@
-const version = '20190808183435';
+const version = '20190903184747';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/behavior%20and%20systems%20neuroscience/cognitive%20neuroscience/memory/2019/08/07/Alice-Berners-Lee/","/developmental%20psychology/cognitive%20neuroscience/childhood%20inequality/language/2019/07/13/Monica-Ellwood-Lowe/","/cognitive%20neuroscience/artificial%20intelligence/emotion%20recognition/2019/07/13/Mandy-Chen/","/developmental%20psychology/artificial%20intellignece/2019/07/13/Eliza-Kosoy/","/social-personality/cognitive%20neuroscience/emotion%20recognition/artificial%20intelligence/2019/07/13/Alan-Cowen/","/about/","/categories/","/contact/","/donate/","/spotlights/","/","/outreach/","/thanks/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","https://upload.wikimedia.org/wikipedia/commons/7/74/Greek_uc_psi.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/cognitive%20neuroscience/sleep/cardiovascular%20health/aging/2019/09/03/Vyoma-Shah/","/behavior%20and%20systems%20neuroscience/cognitive%20neuroscience/memory/2019/08/07/Alice-Berners-Lee/","/developmental%20psychology/cognitive%20neuroscience/childhood%20inequality/language/2019/07/13/Monica-Ellwood-Lowe/","/cognitive%20neuroscience/artificial%20intelligence/emotion%20recognition/2019/07/13/Mandy-Chen/","/developmental%20psychology/artificial%20intellignece/2019/07/13/Eliza-Kosoy/","/social-personality/cognitive%20neuroscience/emotion%20recognition/artificial%20intelligence/2019/07/13/Alan-Cowen/","/about/","/categories/","/contact/","/donate/","/spotlights/","/","/outreach/","/assets/styles.css","/thanks/","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/spotlights/page2/","/feed.xml","https://upload.wikimedia.org/wikipedia/commons/7/74/Greek_uc_psi.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
