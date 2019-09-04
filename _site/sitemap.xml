@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/social-personality/cognitive%20neuroscience/emotion%20recognition/artificial%20intelligence/2019/07/13/Alan-Cowen/</loc>
-<lastmod>2019-07-13T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/developmental%20psychology/artificial%20intellignece/2019/07/13/Eliza-Kosoy/</loc>
-<lastmod>2019-07-13T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/cognitive%20neuroscience/artificial%20intelligence/emotion%20recognition/2019/07/13/Mandy-Chen/</loc>
-<lastmod>2019-07-13T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/developmental%20psychology/cognitive%20neuroscience/childhood%20inequality/language/2019/07/13/Monica-Ellwood-Lowe/</loc>
-<lastmod>2019-07-13T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/behavior%20and%20systems%20neuroscience/cognitive%20neuroscience/memory/2019/08/07/Alice-Berners-Lee/</loc>
-<lastmod>2019-08-07T00:00:00-07:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/cognitive%20neuroscience/sleep/cardiovascular%20health/aging/2019/09/03/Vyoma-Shah/</loc>
 <lastmod>2019-09-03T00:00:00-07:00</lastmod>
 </url>
@@ -47,8 +27,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/thanks/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/spotlights/page2/</loc>
 </url>
 </urlset>

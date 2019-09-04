@@ -22,7 +22,7 @@ plugins:
 - jekyll-twitter-plugin
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://psychblog.berkeley.edu/'
 baseurl: ''
 title: 'Berkeley Psychology Graduate Blog'
 description: 'Berkeley Psychology Graduate Blog'
