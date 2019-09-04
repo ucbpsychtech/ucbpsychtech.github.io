@@ -1,9 +1,0 @@
-{
-  "lang": "en-US",
-  "name": "Berkeley Psychology Graduate Blog",
-  "short_name": "BerkeleyPsychologyGraduateBlog",
-  "theme_color": "#24292e",
-  "background_color": "#ffffff",
-  "start_url": "/",
-  "display": "standalone"
-}
