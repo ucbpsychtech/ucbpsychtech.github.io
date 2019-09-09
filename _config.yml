@@ -44,6 +44,8 @@ navigation_header:
   url: /spotlights/
 # - title: Outreach
 #   url: /outreach/
+- title: Opinion
+  url: /Opinion/
 - title: Contact
   url: /contact/
 
