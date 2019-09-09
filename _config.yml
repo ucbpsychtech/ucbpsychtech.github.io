@@ -32,7 +32,7 @@ email: "maedbhking@berkeley.edu"
 
 # Pagination
 paginate: 5
-paginate_path: spotlights/page:num
+paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
@@ -40,12 +40,14 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Spotlights
-  url: /spotlights/
+- title: Blog
+  url: /blog/
 # - title: Outreach
 #   url: /outreach/
-- title: Opinion
-  url: /Opinion/
+# - title: Opinion
+#   url: /opinion/
+- title: Categories
+  url: /categories/
 - title: Contact
   url: /contact/
 
@@ -59,8 +61,8 @@ collections:
   posts:
     title: Shining a Light on Graduate Student Research
     output: true
-    description: "Each month we 'spotlight' the work of graduate students across all areas of psychology: 
-    cognitive and behavioural neuroscience, social-personality, cognition, and development."
+    description: "Each month we publish opinion pieces and interviews with psychology graduate students, across 
+    all areas of psychology: cognitive and behavioural neuroscience, social-personality, cognition, and development."
     feature_text: |
-      <font color="white" size="8pt">Graduate Student Spotlights</font>
+      <font color="white" size="8pt">Spotlights and Opinions</font>
     feature_image: "/images/Blog_Spotlights_Cover.jpg"

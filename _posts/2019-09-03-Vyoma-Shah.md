@@ -2,10 +2,7 @@
 layout: post
 title: "Listen to Your Heart: What Cardiovascular Health Can Teach Us About Sleep"
 categories: 
-- Cognitive Neuroscience
-- Sleep
-- Cardiovascular Health
-- Aging 
+- Spotlights
 feature_image: "/images/Blog_Vyoma_Cover.png"
 ---
 
