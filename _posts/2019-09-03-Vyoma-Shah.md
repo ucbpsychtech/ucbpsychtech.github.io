@@ -2,16 +2,13 @@
 layout: post
 title: "Listen to Your Heart: What Cardiovascular Health Can Teach Us About Sleep"
 categories: 
-- Cognitive Neuroscience
-- Sleep
-- Cardiovascular Health
-- Aging 
+- Spotlights 
 feature_image: "/images/Blog_Vyoma_Cover.png"
 ---
 
 Vyoma Shah grew up in Mumbai, India and attended UC Berkeley where she majored in cognitive science. She is starting her third year in the psychology graduate program at Berkeley where she studies cognitive neuroscience. She is supervised by Prof. Matt Walker. 
 
-{% include figure.html image="/Images/Blog_Vyoma1.jpg" caption="Vyoma Shah is a third-year graduate student working under the supervision of Prof. Matt Walker" %}
+{% include figure.html image="/images/Blog_Vyoma1.jpg" caption="Vyoma Shah is a third-year graduate student working under the supervision of Prof. Matt Walker" %}
 
 **What drew you to study cognitive neuroscience?**
 
@@ -21,7 +18,7 @@ I remember the first time I saw a real human brain and being amazed at how a 3 l
 
 We know that different stages of sleep are associated with different forms of cardiac control. For example, the deepest stage of sleep is associated with high parasympathetic modulation and the lowest blood pressure in a 24-hour cycle. We also know that the composition of sleep itself is altered in aging; older adults get worse sleep. Currently, we are using different measures of cerebro and cardiovascular health (e.g. blood pressure, heart rate variability at rest and at stress, and brain white matter lesion volume) to investigate how each of them are linked to sleep quality and/or quantity, in young versus older adults.
 
-{% include figure.html image="/Images/Blog_Vyoma2.png" caption="Vyoma’s research focuses on the relationship between sleep and cardiovascular health over the lifespan."%}
+{% include figure.html image="/images/Blog_Vyoma2.png" caption="Vyoma’s research focuses on the relationship between sleep and cardiovascular health over the lifespan."%}
 
 **How will your findings have real-world implications?**
 
