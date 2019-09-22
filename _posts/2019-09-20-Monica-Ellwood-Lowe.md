@@ -10,7 +10,7 @@ Monica Ellwood-Lowe grew up in Milwaukee, Wisconsin and attended Stanford, where
 She is starting her third year in the psychology graduate program at UC Berkeley where she studies 
 developmental psychology. She is supervised by Profs. Mahesh Srinivasan and Silva Bunge. 
 
-{% include figure.html image="/Images/Blog_Monica1.jpg" caption="Monica Ellwood-Lowe is a third-year graduate student working under the joint supervision of Prof. Srinivasan and Prof. Bunge" %}
+{% include figure.html image="/images/Blog_Monica1.jpg" caption="Monica Ellwood-Lowe is a third-year graduate student working under the joint supervision of Prof. Srinivasan and Prof. Bunge" %}
 
 **What drew you to developmental research?**
 
