@@ -5,7 +5,7 @@ categories:
 - Opinion
 feature_image: "/images/Blog_Vyoma_Cover.png"
 ---
-
+***Edited by Maedbh King***<br/>
 A new cohort has recently joined the psychology graduate program and it has all of us reminiscing about our first day in 17th grade. We asked the current graduate students to offer their pearls of wisdom on staying afloat and succeeding over the coming years. They had a lot to say!
 
 FYI: While some of this information is specific to the program at UC Berkeley, a lot of the advice is pertinent to all graduate students, regardless of university or discipline. 

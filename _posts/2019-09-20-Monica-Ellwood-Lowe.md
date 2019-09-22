@@ -5,7 +5,7 @@ categories:
 - Spotlights
 feature_image: "/images/Blog_Monica_Cover.jpg"
 ---
-
+***Interview by Maedbh King***<br/>
 Monica Ellwood-Lowe grew up in Milwaukee, Wisconsin and attended Stanford, where she majored in Psychology.
 She is starting her third year in the psychology graduate program at UC Berkeley where she studies 
 developmental psychology. She is supervised by Profs. Mahesh Srinivasan and Silva Bunge. 
