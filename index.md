@@ -6,6 +6,10 @@ feature_text: |
  <div class="main-page-title"><font color="white" size="6pt">UC Berkeley Psychology: News and Views</font></div>
 ---
 
+<h3>GASP holds the first happy hour of the semester!</h3>
+
+{% include figure.html image="/images/Blog_News_Social.jpg" caption="Graduate students in the psychology program attend the first happy hour of the semester" %}
+
 <h3>Welcome to the Incoming Graduate Students!</h3>
 
 {% include figure.html image="/images/Blog_News_IncomingClass.jpg" caption="Incoming Class of Psychology Graduate Students 2019" %}
