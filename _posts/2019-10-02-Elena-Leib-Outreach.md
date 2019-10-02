@@ -7,7 +7,6 @@ feature_image: "/images/Blog_Elena_Cover.jpg"
 ---
 
 ***Interview by Juliana Chase***<br/>
-
 Elena Leib believes that science is for everyone. As a 2nd year Psychology PhD student working with Professor Silvia Bunge, she is on a mission to demonstrate that research can be both accessible and meaningful no matter a person’s background. 
 
 {% include figure.html image="/images/Blog_Elena_Outreach.png" caption="Elena Leib presenting at 'Popping the Science Bubble' at Berkeley's Public Library" %}
