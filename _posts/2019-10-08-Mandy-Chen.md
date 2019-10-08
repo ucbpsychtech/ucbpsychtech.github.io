@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: "Context is Crucial in Identifying Emotions"
 categories: 
@@ -10,7 +10,7 @@ Mandy Chen grew up in Zhongshan in southern China and attended Peking University
 She is starting her fourth year in the psychology graduate program at UC Berkeley where she studies cognitive neuroscience. She 
 is supervised by Prof. David Whitney. 
 
-{% include figure.html image="/Images/Blog_Mandy.png" caption="Mandy Chen is a fourth-year graduate student working under the supervision of Prof. David Whitney" %}
+{% include figure.html image="/images/Blog_Mandy.png" caption="Mandy Chen is a fourth-year graduate student working under the supervision of Prof. David Whitney" %}
 
 **What drew you to study emotion perception?**
 
