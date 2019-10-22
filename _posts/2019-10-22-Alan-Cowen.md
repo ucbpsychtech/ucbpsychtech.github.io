@@ -6,11 +6,13 @@ categories:
 feature_image: "/images/Blog_Alan_Cover.jpg"
 ---
 ***Edited by Maedbh King***<br>
+
 Alan Cowen grew up in Chicago and attended Yale University where he double majored in Cognitive Science
 and Applied Math. He graduated from the psychology graduate program at UC Berkeley where he studied 
 cognitive neuroscience and social-personality. He was supervised by Prof. Dacher Keltner. 
 
 {% include figure.html image="/images/Blog_Alan.jpg" caption="Alan Cowen is a former graduate student who worked under the supervision of Prof. Dacher Keltner" %}
+{% include figure.html image="/Images/Blog_Alan.jpg" caption="Alan Cowen is a former graduate student who worked under the supervision of Prof. Dacher Keltner" %}
 
 **What drew you to study emotion?**
 
