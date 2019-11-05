@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI has much to Learn From Childhood Curiosity"
+title: "AI Has Much to Learn From Childhood Curiosity"
 categories: 
 - Spotlights
 feature_image: "/images/Blog_Eliza_Cover.jpg"
