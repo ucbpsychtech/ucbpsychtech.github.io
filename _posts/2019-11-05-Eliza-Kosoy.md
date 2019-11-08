@@ -20,7 +20,7 @@ My work attempts to understand how children learn novel concepts quickly and wit
 
 **How will your findings have real-world implications?**
 
-AI has various applications for the world, ideally making certain mundane tasks more automated and thus freeing humans from certain kinds of work, perhaps we were not meant to be doing. Investigating the nature of curiousity has potential for changing its purpose for people and maybe even encouraging everyone to be a bit more naturally curious. 
+AI has various applications for the world, ideally making certain mundane tasks more automated and thus freeing humans from certain kinds of work, perhaps we were not meant to be doing. Investigating the nature of curiosity has potential for changing its purpose for people and maybe even encouraging everyone to be a bit more naturally curious. 
 
 **Finally, what advances would you like to see in your field in the next two decades?**
 
