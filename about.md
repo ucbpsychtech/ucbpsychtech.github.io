@@ -9,4 +9,4 @@ We are conducting cutting-edge research that has wide appeal to a broad audience
 
 We update this page regularly with graduate student spotlights and opinion pieces contributed by psychology graduate students in the department.
 
-If you would like to contribute to this collaborative effort or if you have any questions, please contact maedbhking@berkeley.edu.
+If you would like to contribute to this collaborative effort or if you have any questions, please contact jefferson_ortega@berkeley.edu.
