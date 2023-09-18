@@ -5,7 +5,7 @@ categories:
 - Spotlights 
 feature_image: "/images/Blog_Vyoma_Cover.png"
 ---
-***Interview by Maedbh King***<br/>
+***Interview by Test King***<br/>
 Vyoma Shah grew up in Mumbai, India and attended UC Berkeley where she majored in cognitive science. She is starting her third year in the psychology graduate program at Berkeley where she studies cognitive neuroscience. She is supervised by Prof. Matt Walker. 
 
 {% include figure.html image="/images/Blog_Vyoma1.jpg" caption="Vyoma Shah is a third-year graduate student working under the supervision of Prof. Matt Walker" %}
